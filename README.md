@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0118-pascals-triangle) |
+| [0322-coin-change](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0518-coin-change-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1572-matrix-diagonal-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0118-pascals-triangle) |
+| [0322-coin-change](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0518-coin-change-ii) |
 ## Queue
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0322-coin-change) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
