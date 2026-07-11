@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0607-sales-person) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1327-list-the-products-ordered-in-a-period) |
 ## Array
 |  |
 | ------- |
