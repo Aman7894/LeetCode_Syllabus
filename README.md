@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0119-pascals-triangle-ii) |
 | [0322-coin-change](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0518-coin-change-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0594-longest-harmonious-subsequence) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0119-pascals-triangle-ii) |
 | [0322-coin-change](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0518-coin-change-ii) |
