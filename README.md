@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0518-coin-change-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0594-longest-harmonious-subsequence) |
 | [0806-number-of-lines-to-write-string](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0806-number-of-lines-to-write-string) |
+| [0875-koko-eating-bananas](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0875-koko-eating-bananas) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0875-koko-eating-bananas](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0875-koko-eating-bananas) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
