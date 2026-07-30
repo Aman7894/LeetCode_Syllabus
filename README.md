@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0031-next-permutation) |
+| [0143-reorder-list](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0143-reorder-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0143-reorder-list) |
 | [0678-valid-parenthesis-string](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
@@ -234,4 +236,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
