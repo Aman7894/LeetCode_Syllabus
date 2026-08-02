@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0705-design-hashset) |
 | [0806-number-of-lines-to-write-string](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0806-number-of-lines-to-write-string) |
 | [0875-koko-eating-bananas](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1331-rank-transform-of-an-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0678-valid-parenthesis-string) |
+| [0877-stone-game](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -273,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0705-design-hashset) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
