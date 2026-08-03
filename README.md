@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0608-tree-node) |
+| [1070-product-sales-analysis-iii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1070-product-sales-analysis-iii) |
 | [1158-market-analysis-i](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1158-market-analysis-i) |
 | [1251-average-selling-price](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1251-average-selling-price) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1327-list-the-products-ordered-in-a-period) |
