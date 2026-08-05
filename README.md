@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0806-number-of-lines-to-write-string) |
 | [0875-koko-eating-bananas](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0905-sort-array-by-parity) |
 | [1260-shift-2d-grid](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1331-rank-transform-of-an-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0031-next-permutation) |
 | [0143-reorder-list](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0143-reorder-list) |
+| [0905-sort-array-by-parity](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0905-sort-array-by-parity) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
