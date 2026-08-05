@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0806-number-of-lines-to-write-string) |
 | [0875-koko-eating-bananas](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0905-sort-array-by-parity) |
 | [1260-shift-2d-grid](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1301-number-of-paths-with-max-score) |
