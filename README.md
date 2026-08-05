@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3310-remove-methods-from-project) |
 ## Shortest Path
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3310-remove-methods-from-project) |
 ## Counting
 |  |
 | ------- |
