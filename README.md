@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2762-continuous-subarrays](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/2762-continuous-subarrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1763-longest-nice-substring](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1763-longest-nice-substring) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0594-longest-harmonious-subsequence) |
 | [1763-longest-nice-substring](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1763-longest-nice-substring) |
 | [2762-continuous-subarrays](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/2762-continuous-subarrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
