@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1572-matrix-diagonal-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2762-continuous-subarrays](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/2762-continuous-subarrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2762-continuous-subarrays](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/2762-continuous-subarrays) |
 ## Monotonic Queue
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1763-longest-nice-substring) |
 | [1881-maximum-value-after-insertion](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1881-maximum-value-after-insertion) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Combinatorics
 |  |
