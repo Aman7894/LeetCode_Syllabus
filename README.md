@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1572-matrix-diagonal-sum](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1572-matrix-diagonal-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0705-design-hashset) |
 | [1331-rank-transform-of-an-array](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1763-longest-nice-substring](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1763-longest-nice-substring) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1301-number-of-paths-with-max-score) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Queue
 |  |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0594-longest-harmonious-subsequence) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1763-longest-nice-substring](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1763-longest-nice-substring) |
 | [2762-continuous-subarrays](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/2762-continuous-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0300-longest-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0875-koko-eating-bananas) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Breadth-First Search
