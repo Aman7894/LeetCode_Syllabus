@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0806-number-of-lines-to-write-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1143-longest-common-subsequence) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1763-longest-nice-substring](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1763-longest-nice-substring) |
 | [1881-maximum-value-after-insertion](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1881-maximum-value-after-insertion) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0143-reorder-list) |
 | [0678-valid-parenthesis-string](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -363,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/2029-stone-game-ix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
