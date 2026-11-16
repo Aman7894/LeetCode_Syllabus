@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0098-validate-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -345,12 +346,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0095-unique-binary-search-trees-ii) |
+| [0098-validate-binary-search-tree](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0098-validate-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0095-unique-binary-search-trees-ii) |
+| [0098-validate-binary-search-tree](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0098-validate-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Backtracking
@@ -378,4 +381,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0095-unique-binary-search-trees-ii) |
+| [0098-validate-binary-search-tree](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
