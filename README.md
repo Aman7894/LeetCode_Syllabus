@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0031-next-permutation) |
 | [0059-spiral-matrix-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0073-set-matrix-zeroes) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0031-next-permutation) |
 | [0143-reorder-list](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0283-move-zeroes) |
