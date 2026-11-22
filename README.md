@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0118-pascals-triangle) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0347-top-k-frequent-elements) |
 | [1763-longest-nice-substring](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1763-longest-nice-substring) |
 ## Bit Manipulation
