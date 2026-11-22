@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0287-find-the-duplicate-number) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0516-longest-palindromic-subsequence) |
