@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0059-spiral-matrix-ii) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0287-find-the-duplicate-number) |
