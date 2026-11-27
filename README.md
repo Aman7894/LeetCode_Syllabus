@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0594-longest-harmonious-subsequence) |
 | [0705-design-hashset](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0705-design-hashset) |
 | [1331-rank-transform-of-an-array](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1331-rank-transform-of-an-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0594-longest-harmonious-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1763-longest-nice-substring](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1763-longest-nice-substring) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0072-edit-distance) |
+| [0424-longest-repeating-character-replacement](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0516-longest-palindromic-subsequence) |
 | [0551-student-attendance-record-i](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0551-student-attendance-record-i) |
 | [0678-valid-parenthesis-string](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0678-valid-parenthesis-string) |
