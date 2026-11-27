@@ -441,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3934-smallest-unique-subarray) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
