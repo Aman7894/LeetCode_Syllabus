@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3903-smallest-stable-index-i) |
 | [3934-smallest-unique-subarray](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1301-number-of-paths-with-max-score) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Queue
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
