@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0073-set-matrix-zeroes) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0072-edit-distance) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0287-find-the-duplicate-number) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0143-reorder-list) |
 | [0678-valid-parenthesis-string](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -344,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Segment Tree
 |  |
