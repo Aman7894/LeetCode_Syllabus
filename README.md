@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1025-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1301-number-of-paths-with-max-score) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1025-divisor-game) |
 | [2029-stone-game-ix](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/2029-stone-game-ix) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1025-divisor-game) |
 | [2029-stone-game-ix](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/2029-stone-game-ix) |
 ## Tree
 |  |
@@ -464,4 +467,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1143-longest-common-subsequence) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
