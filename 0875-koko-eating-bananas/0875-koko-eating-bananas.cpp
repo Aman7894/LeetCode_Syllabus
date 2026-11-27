@@ -1,34 +1,26 @@
 class Solution {
 public:
-    long long helper(vector<int>& piles, int k) {
-        long long hours = 0;
-
-        for (int pile : piles) {
-            hours += (pile + k - 1) / k;   // ceil(pile/k)
-        }
-
-        return hours;
-    }
-
-    int minEatingSpeed(vector<int>& piles, int h) {
-
-        int low = 1;
-        int high = *max_element(piles.begin(), piles.end());
-        int ans = high;
-
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-
-            long long hours = helper(piles, mid);
-
-            if (hours <= h) {
-                ans = mid;        // mid works, try smaller speed
-                high = mid - 1;
-            } else {
-                low = mid + 1;    // mid too slow
+    bool fn(vector<int>& piles ,int mid,int h){
+        int a_h = 0;
+        for(int i:piles){
+            a_h+=i/mid;
+            if(i%mid!=0){
+                a_h++;
             }
         }
-
-        return ans;
+        return a_h<=h;
+    }
+    int minEatingSpeed(vector<int>& piles, int h) {
+        int l=1,r=*max_element(piles.begin(),piles.end());
+        while(l<r){
+            int m=l+(r-l)/2;
+            if(fn(piles,m,h)){
+                r=m;
+            }
+            else{
+                l=m+1;
+            }
+        }
+        return l;
     }
 };
