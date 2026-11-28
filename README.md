@@ -382,12 +382,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0143-reorder-list](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0705-design-hashset) |
 ## Recursion
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/Aman7894/LeetCode_Syllabus/tree/master/0206-reverse-linked-list) |
 ## Design
 |  |
 | ------- |
